@@ -33,3 +33,6 @@ Feel free to reach out to me via:
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KM-Kinter&show_icons=true&theme=dark)
+
+## GitHub Snake Game
+You can generate a fun snake game from your GitHub contributions grid. Check it out [here](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid).

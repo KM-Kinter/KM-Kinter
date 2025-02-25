@@ -28,8 +28,7 @@ Feel free to reach out to me via:
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/KM-Kinter/output/main/dist/contribution-snake.svg?v=2" />
 </picture> -->
 
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KM-Kinter&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinter&layout=compact&theme=dark)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KM-Kinter&show_icons=true&theme=dark)

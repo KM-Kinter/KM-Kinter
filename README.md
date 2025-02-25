@@ -21,18 +21,15 @@ Feel free to reach out to me via:
 - Email: km.kinter@proton.me
 - LinkedIn: [Kinter's LinkedIn Profile](https://www.linkedin.com/in/kinter/)
 
-## Contribution Snake
+<!-- ## Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KM-Kinter/output/main/dist/contribution-snake-dark.svg?v=2" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KM-Kinter/output/main/dist/contribution-snake.svg?v=2" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/KM-Kinter/output/main/dist/contribution-snake.svg?v=2" />
-</picture>
+</picture> -->
 
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KM-Kinter&layout=compact&theme=dark)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KM-Kinter&show_icons=true&theme=dark)
-
-## GitHub Snake Game
-You can generate a fun snake game from your GitHub contributions grid. Check it out [here](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid).

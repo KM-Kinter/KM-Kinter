@@ -22,7 +22,11 @@ Feel free to reach out to me via:
 - LinkedIn: [Kinter's LinkedIn Profile](https://www.linkedin.com/in/kinter/)
 
 ## Contribution Snake
-![Contribution Snake](https://raw.githubusercontent.com/KM-Kinter/output/main/contribution-snake.svg?v=1)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KM-Kinter/output/main/dist/contribution-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KM-Kinter/output/main/dist/contribution-snake.svg?v=2" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/KM-Kinter/output/main/dist/contribution-snake.svg?v=2" />
+</picture>
 
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KM-Kinter&layout=compact&theme=dark)

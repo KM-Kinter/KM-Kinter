@@ -21,7 +21,7 @@ Fullstack developer by day, hardware hacker by night. Currently working on a com
 
 - 📧 km.kinter@proton.me
 - 💼 [LinkedIn](https://www.linkedin.com/in/kinter/)
-- 🔊 Usually lurking in the Discord
+- 🔊 Usually lurking on Discord
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinter&layout=compact&theme=dark)
 

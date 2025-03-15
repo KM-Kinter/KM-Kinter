@@ -1,34 +1,28 @@
-# Welcome to My GitHub Profile!
+# Hey there! I'm Kinter 👋
 
-## About Me
-I am a passionate developer with a knack for solving unique technical challenges. My expertise spans various domains, allowing me to create innovative solutions tailored to client needs.
+Fullstack developer by day, hardware hacker by night. Currently working on a competition stopwatch based on the HUB75 and RPi Pico.
 
-### Technical Skills
-- **Programming & Development**: Proficient in general programming, web application design, and Python development.
-- **Database Management**: Skilled in database development, administration, and API integration.
-- **Systems Administration**: Experienced in server management, Linux administration, and network configuration.
-- **Hardware & IoT**: Knowledgeable in electronics design, Raspberry Pi, Arduino, and smart home automation.
-- **3D Printing & Prototyping**: Enthusiastic about PCB design, testing, and radio communication systems.
+## What I'm actually good at
 
-## Hobbies & Interests
-In my free time, I enjoy:
-- Riding my bike
-- Exploring new technologies
-- Reading books about networks :)
+- Built an e-commerce site with Django as a great learning experience
+- Constantly experimenting with Python to make my life easier (my scripts have saved me hundreds of hours of tedious work)
+- Created my own smart home system that not only controls lighting but also adapts to my habits
+- Always tinkering with 3D printers, finding and solving problems the manufacturer doesn't even mention in the manual
 
-## Contact Me
-Feel free to reach out to me via:
-- Email: km.kinter@proton.me
-- LinkedIn: [Kinter's LinkedIn Profile](https://www.linkedin.com/in/kinter/)
+## Current obsessions
 
-<!-- ## Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KM-Kinter/output/main/dist/contribution-snake-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KM-Kinter/output/main/dist/contribution-snake.svg?v=2" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/KM-Kinter/output/main/dist/contribution-snake.svg?v=2" />
-</picture> -->
+- Starting my journey with React and Next.js because static websites are prehistoric
+- Learning VHDL for digital circuit design (because FPGA programming is a completely different beast than regular coding)
+- 3D modeling and printing everything I can't find in stores or is too expensive
+- Repurposing old things into new, better ones using zero waste methods (recently turned an old monitor into a smart mirror)
+- Building a multi-platform music server (Airplay, Spotify, and all popular streaming services) on a Raspberry Pi Zero
+
+## Find me online
+
+- 📧 km.kinter@proton.me
+- 💼 [LinkedIn](https://www.linkedin.com/in/kinter/)
+- 🔊 Usually lurking in the Discord
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinter&layout=compact&theme=dark)
 
-## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KM-Kinter&show_icons=true&theme=dark)

@@ -11,7 +11,7 @@ Fullstack developer by day, hardware hacker by night. Currently working on a com
 
 ## Current obsessions
 
-- Starting my journey with React and Next.js because static websites are prehistoric
+- Starting my journey with React and Next.js
 - Learning VHDL for digital circuit design (because FPGA programming is a completely different beast than regular coding)
 - 3D modeling and printing everything I can't find in stores or is too expensive
 - Repurposing old things into new, better ones using zero waste methods (recently turned an old monitor into a smart mirror)

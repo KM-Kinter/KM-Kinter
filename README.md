@@ -33,6 +33,6 @@ My code works, but I'm not sure why.
 
 ## Find me online
 
-- 📧 km.kinter@proton.me
+- 📧 hello@kinter.one
 - 💼 [LinkedIn](https://www.linkedin.com/in/kinter/)
 - 🔊 Usually lurking on Discord (km.kinter)
